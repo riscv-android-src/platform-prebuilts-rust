@@ -1,2 +1,10 @@
 librustc_driver-*.so filter=lfs diff=lfs merge=lfs -text
 librustc_driver-*.dylib filter=lfs diff=lfs merge=lfs -text
+darwin-x86/1.51.0/lib/librustc_driver-6b61c8e54057b50a.dylib filter=lfs diff=lfs merge=lfs -text
+linux-x86/1.51.0/lib/librustc_driver-f245299482a2e9cf.so filter=lfs diff=lfs merge=lfs -text
+darwin-x86/1.49.0/lib/librustc_driver-272808e1d4b509e2.dylib filter=lfs diff=lfs merge=lfs -text
+linux-x86/1.50.0/lib/librustc_driver-4f9a7b5b935571a5.so filter=lfs diff=lfs merge=lfs -text
+linux-x86/1.48.0/lib/librustc_driver-40846889a700f3d8.so filter=lfs diff=lfs merge=lfs -text
+linux-x86/1.49.0/lib/librustc_driver-76d42bbf772b1e74.so filter=lfs diff=lfs merge=lfs -text
+darwin-x86/1.48.0/lib/librustc_driver-05446c717999b2cb.dylib filter=lfs diff=lfs merge=lfs -text
+darwin-x86/1.50.0/lib/librustc_driver-c3b19476e3507776.dylib filter=lfs diff=lfs merge=lfs -text
