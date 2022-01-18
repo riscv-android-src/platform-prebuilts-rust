@@ -1,0 +1,2 @@
+librustc_driver-*.so filter=lfs diff=lfs merge=lfs -text
+librustc_driver-*.dylib filter=lfs diff=lfs merge=lfs -text
